@@ -59,7 +59,7 @@ Make sure you have [`cruft`](https://github.com/cruft/cruft#installation) instal
 Create a new project:
 
 ```sh
-cruft create https://github.com/woltapp/wolt-python-package-cookiecutter
+cruft create https://github.com/malcolm-3/malcolm-3-python-package-cookiecutter
 ```
 
 The CLI interface will ask some basic questions, such the name of the project, and then generate all the goodies
